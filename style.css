@@ -1,0 +1,23 @@
+.box1{
+    width: 350px;
+    height: 160px;
+    margin-top: 15px;
+    margin-left: 3px;
+    text-align: center;
+}
+.text1{
+    color: #777;
+}
+.text2{
+    color: #001AFF;
+    text-align: center;
+}
+.box2{
+    width: 350px;
+    height: 160px;
+    margin-left: 72px;
+}
+.text3{
+    color: #F00;
+    text-align: justify;
+}
